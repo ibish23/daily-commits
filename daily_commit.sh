@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Crono reporting for duty at $(date '+%Y-%m-%d %H:%M:%S')" >> crono.log
 
 cd "$(dirname "$0")"
 
