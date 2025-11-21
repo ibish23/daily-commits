@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/sagittarius/daily-commits || exit
+cd /home/oluwatobi/daily-commits || exit
 
 echo "Crono reporting for duty at $(date '+%Y-%m-%d %H:%M:%S')" >> crono.log
 
