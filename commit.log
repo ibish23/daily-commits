@@ -1,3 +1,8 @@
 No changes to commit on Sat Jun  7 23:39:08 BST 2025
 0: command not found
 0: command not found
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
